@@ -1,0 +1,3 @@
+﻿135|Geralmente utilizada para compartilhamento de arquivos SMB da Microsoft.
+139|Geralmente utilizada para Compartilhamento de arquivos SMB da Microsoft.
+445|É melhor definir o seu firewall para nunca permitir que porta 445 o trâfego de rede de saída. Alguns recomendam a desativação porta 445 no firewall pessoal, a menos que você realmente precisa dele para um período de tempo.
